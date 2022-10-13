@@ -14,6 +14,6 @@
  
  ## Списки
  
- * list onec
+ * list one
  * list two
  * list three
