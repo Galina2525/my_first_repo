@@ -17,3 +17,8 @@
  * list one
  * list two
  * list three
+
+ ## Картинки
+ Это мой Рикки
+ 
+ ![йорк](image_50369025.JPG)
